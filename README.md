@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### Hey I'm Vladimir!
+* I am a financier by education. Programming was my hobie.
+* I like [Python!!!](python.org)
+<!-- * I am currently studying at [yandex-practicum](https://practicum.yandex.ru/) -->
+#### You can write to me
+* telegram - @gusevsk1y
+* mail - vlgu@mail.ru
 <!--
 **gusevskiy/gusevskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
