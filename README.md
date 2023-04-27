@@ -1,5 +1,5 @@
 ### Hey I'm Vladimir!
-* I am a financier by education. Programming was my hobie.🤔
+* 💹 I am a financier by education. Programming was my hobie.🤔
 * 👍 I like [Python!!!](python.org)
 * 🌱 I am currently studying at [yandex-practicum](https://practicum.yandex.ru/)
 ####  You can write to me 💬
